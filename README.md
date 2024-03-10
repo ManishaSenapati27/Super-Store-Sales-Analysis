@@ -1,10 +1,28 @@
-# Super-Store-Sales-Analysis
+## Title: Superstore Sales Analysis Dashboard - Power BI Project
 
-OBJECTIVE:
-To contribute to the success of a business by utilizing data analysis techniques specifically focusing on time series analysis to provide valuable insights and accurate sales forecasting.
+# Description:
+The Superstore Sales Analysis Dashboard is a comprehensive and visually engaging Power BI project designed to provide actionable insights into the sales performance of a fictional superstore. This dynamic dashboard combines data visualization and analytics to offer a holistic view of key metrics, allowing stakeholders to make informed decisions and drive business growth.
 
-Explored power bi essentials, delved into data import and cleaning mastered power query editor ,honed Dax skills for measures and calculations, and crafted advanced charts with filters and slicers.
+# Key Features:
+1. Sales Overview:
+Display a summary of overall sales performance, including total revenue, units sold, and average order value.
+Provide a snapshot of current sales trends, highlighting peaks and troughs.
 
-The project also covered dashboard design, zooming in and out charts, and forecasting for superstore sales, resulting in a visually stunning and super insightful dashboard .
-Exporting this masterpiece is a breeze,ready to share more impactful insights.
+2. Geographic Analysis:
+Utilize maps and geospatial visualizations to showcase sales distribution across regions.
+Drill down into specific locations to identify high-performing and underperforming areas.
 
+3. Product Category Insights:
+Categorize sales data to showcase the performance of different product categories.
+Implement interactive features for users to explore specific categories and subcategories.
+
+5. Customer Segmentation:
+Analyze customer demographics, purchasing behavior, and loyalty.
+Create segments based on customer profiles to tailor marketing strategies.
+6. Time-based Analysis:
+Implement time-series charts to track sales trends over different time periods (daily, monthly, yearly).
+Identify seasonality, promotions, and other temporal patterns impacting sales.
+7. Top Products and Customers:
+Highlight top-selling products and most valuable customers.
+![Screenshot 2024-03-09 234218](https://github.com/ManishaSenapati27/Super-Store-Sales-Analysis/assets/151750685/7d428976-808b-47c8-8250-5490553f54dd)
+![Screenshot 2024-03-09 234251](https://github.com/ManishaSenapati27/Super-Store-Sales-Analysis/assets/151750685/95102b3d-ea26-4104-9fd4-9f990928ea6f)
